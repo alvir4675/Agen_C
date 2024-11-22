@@ -1,0 +1,222 @@
+@media (max-width: 576px) {
+
+
+    .display {
+        background: transparent;
+        padding-bottom: 30px;
+        
+    }
+
+
+    .middle {
+        width: 100%;
+    }
+
+    .logo {
+        margin-bottom: 20px;
+    }
+
+    .button1 {
+        display: none;
+    }
+
+    .tabs {
+        display: none;
+    }
+
+    .bars {
+        border: none;
+        cursor: pointer;
+        padding: 7px;
+        color: #433878;
+        background-color: #7E60BF;
+        margin-bottom: 20px;
+    }
+
+    .bigtext h1 {
+        font-size: 39px;
+        margin-bottom: 30px;
+    }
+
+    .middle {
+        padding-top: 217px;
+        padding-bottom: 1px;
+    }
+
+    .ball1 {
+        height: 15PX;
+        width: 15PX;
+    }
+    .ball2 {
+        height: 15PX;
+        width: 15PX;
+    }
+    .ball3 {
+        height: 15PX;
+        width: 15PX;
+    }
+    .ball4 {
+        height: 15PX;
+        width: 15PX;
+    }
+
+    .sumw {
+        margin-top: 70px;
+    }
+
+    .container {
+        margin-top: 110px;
+        height: 456px;
+        display: flex;
+        FLEX-DIRECTION: column;
+        justify-content: center;
+        align-items: center;
+        flex-wrap: nowrap;
+        padding-bottom: 76px;
+        width: 516px;
+    }
+
+    #serv {
+        font-size: 33px;
+    }
+
+    .succ {
+        max-width: 387px;
+        font-size: 18px;
+        font-weight: 600;
+        color: black;
+        margin-top: 69px;
+    }
+
+    #a1 {
+        font-size: 25PX;
+        font-weight: bold;
+        color: black;
+    }
+
+    #parp {
+        color: #737373;
+        font-size: 16px;
+        font-weight: 500;
+        height: 52px;
+        align-self: center;
+        display: inline;
+    }
+
+    .row1 {
+        display: inline-flex;
+        flex-wrap: wrap;
+        flex-direction: column;
+        align-content: center;
+    }
+
+    .row2 {
+        display: inline-flex;
+        flex-direction: column;
+        align-items: center;
+        flex-wrap: wrap;
+    }
+
+    .util1r {
+        display: flex;
+        flex-direction: column;
+        flex-wrap: wrap;
+        align-items: center;
+    }
+
+    .util2r {
+        display: flex;
+        flex-direction: column;
+        flex-wrap: wrap;
+        align-items: center;
+    }
+
+    #uth5 {
+        text-align: center;
+    }
+
+    #utp {
+        text-align: center;
+    }
+
+    .tptx {
+        margin-top: 1640px;
+    }
+
+
+    .innovative {
+        margin-top: 67px;
+        display: flex;
+        flex-direction: column;
+        flex-wrap: wrap;
+        align-items: center;
+    }
+
+    .dedicated {
+        margin-top: 95px;
+        display: flex;
+        flex-wrap: wrap;
+        flex-direction: column;
+        align-content: center;
+    }
+
+    .mdltxt {
+        text-align: center;
+        margin-top: 1200px;
+    }
+
+    .cusrev {
+        display: flex;
+        margin-top: 130px;
+        gap: 24px;
+        flex-direction: column;
+        align-items: center;
+    }
+
+
+    .hooman {
+        height: 428px;
+        width: 428px;
+        MARGIN-TOP: 500px;
+        position: relative;
+        right: -67px;
+    }
+
+
+    .form_page {
+        margin-top: 872px;
+    }
+    .form_cont {
+        display: flex;
+        flex-direction: column;
+        align-content: center;
+        align-items: center;
+    }
+
+
+
+    .txt {
+        padding-top: 60px;
+        margin-left: 0px;
+        text-align: center;
+    }
+
+    .form {
+        margin-top: 61px;
+        margin-bottom: 0px; 
+        margin-left: 0px;
+        margin-right: 0px;
+    }
+
+
+    .bottom_page {
+        display: flex;
+        margin-top: 159px;
+        flex-direction: column;
+        align-items: center;
+        text-align: center;
+    }
+
+
+    
+}
